@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Montserrat:wght@400;500;600;700;800;900&family=Neuton:wght@200&family=Noto+Serif:ital,wght@0,400;0,600;0,700;0,800;1,500&family=Open+Sans&family=Pixelify+Sans&family=Poppins:ital,wght@0,400;0,700;0,800;0,900;1,600&family=Tilt+Prism&display=swap');
+
+.header-nav{
+    display: flex;
+justify-content: space-between;
+
+
+}
+.header-vector {
+    width: 20px;
+    height: 20px;
+}
+h1.text {
+    color: #2C2C2C;
+font-family: Noto Serif;
+font-size: 84px;
+font-style: normal;
+font-weight: 700;
+line-height: 112px; 
+
+}
+.picture {
+    width: 1680px;
+height: 1000px;
+flex-shrink: 0;
+}
+.btn {
+    width: 200px;
+    height: 60px;
+    top: 679px;
+    left: 255px;
+    background: #FF715B;
+   align-items: center;
+
+    
+}
+.icon-div {
+    display: flex;
+    justify-content: space-between;
+    width: 326px;
+    height: 326px;
+    top: 1377px;
+}
+
+.picture {
+    width: 1680px;
+height: 1000px;
+top: 120px;
+left: 120px;
+
+}
+.header-section {
+    padding: 50px;
+}
+.intro{
+    background-image: url(./hero-banner\ 2\ \(1\).png);
+    height: 750px;
+    padding-top: 285px;
+    padding-left: 135px;
+    
+}
+.txt {
+    padding-top: 19px;
+    padding-left: 120px;
+    width: 419px;
+height: 116px;
+
+
+}
+.button {
+    width: 195px;
+height: 64px;
+flex-shrink: 0;
+background: #FF715B;
+
+}
+.destinations {
+    display: flex;
+    justify-content: space-between;
+    
+}
+.look {
+padding-left: 120px;
+
+}
+.images {
+    width: 570px;
+height: 700px;
+top: 2698px;
+left: 255px;
+
+}
